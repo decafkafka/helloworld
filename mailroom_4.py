@@ -170,3 +170,4 @@ if __name__ == '__main__':
         if command == 'quit' or command == '4':
             break
         switchboard(command)
+    print("hello!")
